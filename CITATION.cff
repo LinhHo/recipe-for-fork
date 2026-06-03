@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Recipe-exercise
+message: >-
+  This is an exercise on collaboration with Github, using
+  recipe book as an example.
+type: software
+authors:
+  - given-names: Linh
+    family-names: Ho
+    email: l.ho@tudelft.nl
+  - given-names: 'Alberto '
+    family-names: Cravero
+    email: albertomariacravero@gmail.com
